@@ -1,6 +1,7 @@
+// const React = rquire("react")
 import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+import ReactDOM from 'react-dom'; //Interfaces en el cliente
+import './index.css'; 
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
